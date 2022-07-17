@@ -11,4 +11,5 @@
     Console.WriteLine(a % 10);
 }
 
+Console.Write("введите число = ");
 Number(int.Parse(Console.ReadLine()));
